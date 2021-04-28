@@ -1,0 +1,12 @@
+.basic.label {
+  margin-bottom: 0.25rem;
+  
+}
+.border{
+
+  margin: 100px 300px;
+  padding: 40px;
+  border: 1px solid rgba(194, 194, 194, 0.761);
+  background-color: rgba(240, 240, 240, 0.412);
+
+}
